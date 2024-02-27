@@ -1,6 +1,6 @@
 # Actividad-001
 ***
-Short Description about the project.
+En esta actividad realizamos la instalación de Git bash y creación de repositorio en Github. Configuramos por medio de la consola de Gitbash siguiendo una secuencia de pasos basados en comandos proporcionados por el docente. Finalmente agregamos el presente README con información base con el propósito de ser una plantilla.
 # Headline H1
 ## Headline H2
 ### Headline H3
