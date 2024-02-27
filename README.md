@@ -31,7 +31,7 @@ A list of technologies used within the project:
 * [Library name](https://example.com): Version 1234
 
 <a name="collaboration"></a>
-### Members
-## Daniel Steven Holguín Restrepo
-## Kevin Hinojosa Osorio
-## Sergio Gallego Medina
+## Members
+### Daniel Steven Holguín Restrepo
+### Kevin Hinojosa Osorio
+### Sergio Gallego Medina
